@@ -517,9 +517,9 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: 
-  locationUsageDescription: 
-  microphoneUsageDescription: 
+  cameraUsageDescription: Used for user experience.
+  locationUsageDescription: Used for user experience.
+  microphoneUsageDescription: Used for user experience.
   bluetoothUsageDescription: 
   switchNMETAOverride: 
   switchNetLibKey: 
