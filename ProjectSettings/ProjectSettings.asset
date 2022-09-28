@@ -157,6 +157,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.OneBadGoose.GCWCompanionApp
     Standalone: com.DefaultCompany.2DProject
+    iPhone: com.OneBadGoose.GCWCompanionApp
   buildNumber:
     Standalone: 0
     iPhone: 0
